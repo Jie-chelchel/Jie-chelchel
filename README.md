@@ -1,9 +1,5 @@
 ### Hi My name is Jie Zhang 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... CoderHeros App 
 - 🌱 I’m currently learning ... Vue.js
 - 👯 I’m looking to collaborate on ...
