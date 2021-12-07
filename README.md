@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **React, Redux, Node.js**
+- 💬 Ask me about **React, Redux, Node.js, JS**
 
 - 📫 How to reach me **zhangjiew@gmail.com**
 
