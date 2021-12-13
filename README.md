@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CoderHeros App](https://github.com/Lambda-School-Labs/coder-heroes-fe)
 
-- 🌱 I’m currently learning **Vue.js, AWS**
+- 🌱 I’m currently learning **Microservices_Node.js, Docker**
 
 - 💬 Ask me about **React, Redux, Node.js, JS**
 
