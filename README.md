@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jie Zhang</h1>
 <h3 align="center">A passionate full-stack developer from Colorado</h3>
 
-- 🔭 I’m currently working on [CoderHeros App](https://github.com/Lambda-School-Labs/coder-heroes-fe)
+- 🔭 I’m currently working on [Little Artists](https://github.com/Jie-chelchel/little-artist)
 
 - 🌱 I’m currently learning **Microservices_Node.js, Docker**
 
